@@ -1,16 +1,3 @@
-# qwe1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://user-images.githubusercontent.com/104350955/169143871-b29b91b8-7273-49dd-8244-fad67531ba67.jpg)
+![2](https://user-images.githubusercontent.com/104350955/169143879-2d3f94ab-ddd2-4d8a-b6c3-d436ba2441c8.jpg)
+![3](https://user-images.githubusercontent.com/104350955/169143882-0f32aa3f-783f-4143-af97-32a1f395cf8d.jpg)
